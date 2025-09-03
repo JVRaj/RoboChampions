@@ -1,3 +1,4 @@
 # 3D Models
 
-This directory contains all the 3D models devloped to 3D print our robot.
+The following drive link contains the final 3D CAD file created for our robot:
+https://drive.google.com/file/d/1nPrlHhIy_s0_yM9g3Fy4j3n5QFtJ1JX9/view?usp=share_link
