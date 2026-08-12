@@ -2,7 +2,7 @@
 
 This directory contains all the photos of our team.
 
-Ranveer
+Ranveer Sharma
 
 <img width="900" height="1600" alt="IMG-20260812-WA0009" src="https://github.com/user-attachments/assets/823737f0-a9bb-491d-bd8e-ca1c757abd81" />
 
